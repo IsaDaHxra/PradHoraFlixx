@@ -104,7 +104,7 @@ img{
     left: 2vw;
     height: 62vh;
     width: 24vw;
-    background-image: url("/Sobre-nos-isabelly/imagens/isabelly.svg");
+    background-image: url("imagens/isabelly.svg");
     background-size: cover;
     background-position: center;
     border: 5px solid var(--rosa-escuro);
@@ -161,17 +161,17 @@ img{
     background-position: center;
 }
 #muaythai{
-    background-image: url("/Sobre-nos-isabelly/imagens/muay-thai.svg");
+    background-image: url("imagens/muay-thai.svg");
     border: 6px solid var(--rosa-escuro);
 }
 #caipirinha{
-    background-image: url("/Sobre-nos-isabelly/imagens/caipirinha.svg");
+    background-image: url("imagens/caipirinha.svg");
     border: 6px solid var(--branco-puro);
     position: relative;
     bottom: 18vh;
 }
 #guitarra{
-    background-image: url("/Sobre-nos-isabelly/imagens/guitarra.svg");
+    background-image: url("imagens/guitarra.svg");
     border: 6px solid var(--rosa-claro);
 }
 #primeira-fila{
@@ -212,7 +212,7 @@ img{
     height: 60vh;
     border-radius: 15px;
     border: 8px solid var(--rosa-escuro);
-    background-image: url("/Sobre-nos-isabelly/imagens/natal.svg");
+    background-image: url("imagens/natal.svg");
     background-size: cover;
     background-position: center;
 }
